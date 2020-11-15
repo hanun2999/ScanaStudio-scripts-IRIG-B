@@ -1,0 +1,9 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isas-yamamoto/ScanaStudio-scripts-IRIG-B.git"
+  },
+  "dependencies": {
+    "eslint": "^7.13.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "extends": [
+        "eslint:recommended"
+    ],
+    "plugins": [],
+    "parserOptions": {},
+    "env": {
+        "browser": false
+    },
+    "globals": {
+        "ScanaStudio": true
+    },
+    "rules": {}
+}
