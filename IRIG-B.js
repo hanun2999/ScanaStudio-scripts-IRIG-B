@@ -246,10 +246,10 @@ function Logger(name) {
     ScanaStudio.console_info_msg(time + ' [' + name + '] ' + level + ' ' + msg);
   }
 
-  self.info = function (msg) { self.log(self.name, 'INFO', msg); };
-  self.warning = function (msg) { self.log(self.name, 'WARN', msg); };
-  self.error = function (msg) { self.log(self.name, 'ERROR', msg); };
-  self.debug = function (msg) { self.log(self.name, 'DEBUG', msg); };
+  self.info = function (msg) { self.log(self.name, 'INFO', msg); }
+  self.warning = function (msg) { self.log(self.name, 'WARN', msg); }
+  self.error = function (msg) { self.log(self.name, 'ERROR', msg); }
+  self.debug = function (msg) { self.log(self.name, 'DEBUG', msg); }
 
   return self;
 }
