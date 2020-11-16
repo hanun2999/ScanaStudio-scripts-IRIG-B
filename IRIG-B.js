@@ -1,10 +1,10 @@
 /* Protocol meta info:
 <NAME> IRIG-B </NAME>
 <DESCRIPTION>
-IRIG time code B (IRIG-B) consists of frames that describe the time to transfer
-timing information. One frame corresponds to one time, and one frame consists of
-100 bits. One bit is represeeneted by the width of one pulse.
-second.
+IRIG time code B (IRIG-B) consists of frames that describe the time to
+transfer timing information. One frame corresponds to one time, and
+one frame consists of 100 bits. One bit is represented by the width of
+one pulse.
 </DESCRIPTION>
 <VERSION> 0.0 </VERSION>
 <AUTHOR_NAME> Yukio Yamamoto </AUTHOR_NAME>
